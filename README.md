@@ -4,8 +4,7 @@ All statistical analyses were performed using the “TwoSampleMR” package and 
 R codes are provided.
 
 Dataset ID and access address
-
-Dataset	            GWAS ID	                                  Access address
+                               
 Gut microbiota(GM)	ebi-a-GCST90016908 ~ ebi-a-GCST90017118	  http://www.mibiogen.org/
 
 Plasma metabolites	GCST90199621 ~ GCST90201020	              https://www.ebi.ac.uk/gwas/downloads/summary-statistics
